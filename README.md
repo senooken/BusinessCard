@@ -1,13 +1,17 @@
 # BusinessCard
 
+![card.front](./writer/card.front.bmp)
+
+![card.back](./writer/card.back.bmp)
+
 ## Introduction
 個人名刺のサンプルを格納している。
 
 サンプルといっても，住所と電話番号以外は実データであり，簡単なプロフィールの役割を果たしている。
 
-名刺自体 (card.odg) はLibreOffce Drawで作成している。
+名刺自体 (`card.odg`) はLibreOffce Drawで作成している。
 
-名刺用紙で印刷するためのタイル状配置 (print.pdf) には，以下の2種類の方法を試している。
+名刺用紙で印刷するためのタイル状配置 (`print.pdf`) には，以下の2種類の方法を試している。
 
 1. pdfjam
 2. LibreOffice Writer
