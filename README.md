@@ -1,8 +1,8 @@
 # BusinessCard
 
-![card.front](./writer/card.front.bmp)
+![card.front](./writer/card.front.png)
 
-![card.back](./writer/card.back.bmp)
+![card.back](./writer/card.back.png)
 
 ## Introduction
 個人名刺のサンプルを格納している。
